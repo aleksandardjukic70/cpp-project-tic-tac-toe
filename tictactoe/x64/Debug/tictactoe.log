@@ -1,0 +1,4 @@
+﻿  functions.cpp
+C:\Users\Aleksandar\Desktop\CPP_PROJECTS\VI\19_TIC_TAC_TOE_PROJECT\tictactoe\functions.cpp(98,26): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Aleksandar\Desktop\CPP_PROJECTS\VI\19_TIC_TAC_TOE_PROJECT\tictactoe\functions.cpp(107): warning C4715: 'gameover': not all control paths return a value
+  tictactoe.vcxproj -> C:\Users\Aleksandar\Desktop\CPP_PROJECTS\VI\19_TIC_TAC_TOE_PROJECT\tictactoe\x64\Debug\tictactoe.exe
